@@ -25,3 +25,7 @@
 .small {
     font-size: 10px;
 }
+.login-container {
+    background-image: url(../assets/images/cucumber.jpg);
+    background-position: center;
+}
